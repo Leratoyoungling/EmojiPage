@@ -114,6 +114,7 @@ html,.main{
     content: url('menu.PNG');
     max-height: 45px ;
     cursor: pointer;
+    font-size: x-small;
 }
 .navigation > a{
     display: none;
