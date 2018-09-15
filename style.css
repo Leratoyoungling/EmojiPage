@@ -111,7 +111,7 @@ html,.main{
 
 @media (max-width: 1087px){
 .navigation::after{
-    content: url('../assets/img/menu.png');
+    content: url('../assets/img/menu.PNG');
     max-height: 45px ;
     cursor: pointer;
 }
