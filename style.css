@@ -121,10 +121,7 @@ html,.main{
 .navigation:hover{
     background: linear-gradient(to bottom right, #ffe115, #f9e56686  );
 }
-.navigation:hover ::before{
-    content: 'Emoji Store Menu';
 
-}
 .navigation:hover > a{
     display: block;
     border-radius: 6px;
