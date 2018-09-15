@@ -11,7 +11,7 @@ html,.main{
     height: 100%;
     background-color: #ffe115;
     background: linear-gradient(to bottom right, #ffe115, #f9e56686  )
-    , url('../assets/img/background.jpg');
+    , url('background.jpg');
     background-position: center;
     display: block
 }
@@ -111,7 +111,7 @@ html,.main{
 
 @media (max-width: 1087px){
 .navigation::after{
-    content: url('../assets/img/menu.PNG');
+    content: url('menu.PNG');
     max-height: 45px ;
     cursor: pointer;
 }
