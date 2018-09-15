@@ -81,7 +81,7 @@ html,.main{
 
 .overlay-text > h1{
     text-transform: uppercase;
-    color: #4A8FE7;
+    color: #8b0000;
     font-size: 45px;
     font-weight: 400;
     margin-bottom: 5px;
@@ -91,19 +91,19 @@ html,.main{
 }
 .btn{
     width: fit-content;
-    border: 1.5px solid #4A8FE7;
+    border: 1.5px solid #8b0000;
     border-radius: 6px;
     background:transparent;
     font-size: 25px;
     padding: 10px 15px;
     margin: auto;
-    color: #4A8FE7;
+    color: #8b0000;
     font-weight: 500;
     cursor: pointer;
     margin-top: 35px;
 }
 .btn:hover{
-    background-color: #4A8FE7;
+    background-color: #8b0000;
     color: #fff;
 }
 
