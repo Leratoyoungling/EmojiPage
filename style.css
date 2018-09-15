@@ -136,7 +136,7 @@ html,.main{
 }
 .navigation:hover > a:hover{
     color: #fff;
-    background: #4A8FE7;
+    background: #8b0000;
 }
 .navigation:hover::after {
     display: none;
