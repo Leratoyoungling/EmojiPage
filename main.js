@@ -1,3 +1,3 @@
-getSwag = function(){
-    alert("You got swag!");
+function() = getSwagged {
+       alert("You got swagged!");
 }
