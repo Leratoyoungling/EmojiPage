@@ -128,7 +128,7 @@ html,.main{
     border-radius: 6px;
     width: 100%;
     font-weight: 500;
-    font-size: x-small;
+    font-size: 12px;
 }
 .navigation:hover > a::before{
         content: '';
